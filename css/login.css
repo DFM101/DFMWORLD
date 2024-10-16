@@ -1,0 +1,92 @@
+            *{
+
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+
+            }
+
+            html{
+                font-size: 16px;
+            }
+            
+            body{
+                background-image: url(../assets/images/music19.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-color: rgb(32, 181, 218);
+                font-family: 'Times New Roman', Times, serif
+
+            }
+
+            .container{
+                background-color: white;
+                width: 100%;
+                max-width: 25rem;
+                padding-left: 2rem;
+                padding-right: 2rem;
+                padding-top: 2rem;
+                padding-bottom: 2rem;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 9.375rem;
+                border-radius: 0.9375rem;
+                border-left: 0.125rem solid rgb(47, 0, 255);
+                border-top: 0.125rem solid rgb(47, 0, 255);
+
+                
+
+            }
+            
+            
+            h1{
+                text-align: center;
+                color: rgb(61, 88, 139);
+                font-size: 3.25rem;
+                letter-spacing: 0.3rem;
+                text-shadow: 1rem 1rem 1rem rgb(117, 13, 82);
+            }
+
+            form p {
+
+                text-align: justify;
+                text-transform: none;
+                line-height: 2rem;
+                font-size: 0.8rem;
+                font-weight: bold;
+
+            }
+
+
+            form p a {
+
+                text-decoration: none;
+                color: blueviolet;
+
+            }
+
+
+            .email-input{
+
+                height: 36px;
+                width: 100%;
+                padding-left: 15px;
+            }
+
+
+            .pass-input{
+
+                margin-top: 20px;
+                margin-bottom: 10px;
+                height: 36px;
+                width: 100%;
+                padding-left: 15px;
+
+            }
+
+            button{
+
+                background-color: rgb(150, 209, 243);
+                width: 100%;
+
+            }
